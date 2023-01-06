@@ -8,6 +8,8 @@
 
 }  
 
+
+
 .container-fluid{
     /* background-color: rgb(249, 152, 24); */
 
@@ -42,8 +44,9 @@ h2{
 
 }
 .d1{
-  margin-top:480px;
-  margin-left: 50px;
+  margin-top: 60px;
+  margin-bottom:170px;
+ 
 
 }
 h1{
@@ -51,4 +54,8 @@ h1{
   margin-left: 50px;
 font-size: 50px;
 margin-top: 50px;
+}
+#result{
+  height: 300px;
+
 }
